@@ -1,0 +1,26 @@
+{
+  "name": "grunt-contrib-continuation",
+  "description": "Compile .coffee/.ls/.js/.ls with continuation.",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "curimit",
+    "email": "curimit@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/curimit/grunt-contrib-continuation"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "continuation": "^0.1.4",
+    "LiveScript": "latest",
+    "coffee-script": "latest"
+  },
+  "readme": "ERROR: No README data found!"
+}
